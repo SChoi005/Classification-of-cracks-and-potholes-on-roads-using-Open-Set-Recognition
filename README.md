@@ -1,4 +1,4 @@
-# SChoi005-ML-Course-Project
+# Classification of cracks and potholes on roads using Open Set Recognition
 
 * Data source
   1. https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=178
